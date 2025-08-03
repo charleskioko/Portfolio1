@@ -46,7 +46,7 @@ Documentation:
 - Code includes descriptive comments where needed
 
 Deployment:
-- Hosted on GitHub Pages: https://github.com/charleskioko/Portfolio1
+- Hosted on GitHub Pages: https://charleskioko.github.io/Portfolio1/
 
 Development Process:
 - Designed and built from scratch
@@ -65,10 +65,10 @@ You can download my resume directly from the site by clicking on the CV link:
 ## Live Site
 
 Visit the live site:  
- https://github.com/charleskioko/Portfolio1
+  https://charleskioko.github.io/Portfolio1/
 ## Contact
 
-Email: kioko27c@gmail.com
+Email: charleskioko702@gmail.com
 Location: Nairobi, Kenya
 
 ---
