@@ -46,7 +46,7 @@ Documentation:
 - Code includes descriptive comments where needed
 
 Deployment:
-- Hosted on GitHub Pages: https://yourusername.github.io/portfolio
+- Hosted on GitHub Pages: https://github.com/charleskioko/Portfolio1
 
 Development Process:
 - Designed and built from scratch
@@ -60,16 +60,15 @@ Technology Stack:
 ## Download My CV
 
 You can download my resume directly from the site by clicking on the CV link:  
-[Download CV](./assets/CV.pdf)
+[Download CV]
 
 ## Live Site
 
 Visit the live site:  
-https://yourusername.github.io/portfolio
-
+ https://github.com/charleskioko/Portfolio1
 ## Contact
 
-Email: your.email@example.com  
+Email: kioko27c@gmail.com
 Location: Nairobi, Kenya
 
 ---
