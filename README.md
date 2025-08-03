@@ -15,8 +15,8 @@ The goal of this project is to demonstrate my abilities as a developer and commu
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Git & GitHub for version control and deployment
 - Google Fonts (Poppins)
 - Hosting: GitHub Pages
@@ -29,21 +29,6 @@ The goal of this project is to demonstrate my abilities as a developer and commu
 - Interactive contact form
 - Clean visual theme with smooth transitions and hover effects
 - Images are supported (you can replace placeholder image paths)
-
-## Evaluation Criteria Coverage
-
-Creativity and Ingenuity:
-- Custom visual theme with a clean, professional look
-- Unique content aligned with geospatial and web development interests
-
-Code Quality:
-- Clean, well-indented HTML and CSS
-- Use of semantic tags and efficient styling
-- Commented code for clarity
-
-Documentation:
-- Clear project explanation in this README file
-- Code includes descriptive comments where needed
 
 Deployment:
 - Hosted on GitHub Pages: https://charleskioko.github.io/Portfolio1/
